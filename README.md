@@ -1,2 +1,2 @@
-# Zinmat-Insurance
+# Zimnat-Insurance
 Zindi Competition
